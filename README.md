@@ -1,1 +1,1 @@
-# cbse-python-notebooks
+# cbse python notebooks
