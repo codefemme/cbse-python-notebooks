@@ -1,4 +1,4 @@
-# cbse python notebooks
+# CodeFemme CBSE Notebooks
 
 # SQL Python Connectivity
 
