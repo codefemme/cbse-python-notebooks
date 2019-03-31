@@ -1,4 +1,3 @@
-< Add syllabus / contents here >
 In the class 11 syllabus we'll be covering:
 1. Introduction to Python
 2. Functions
