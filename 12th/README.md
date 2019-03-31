@@ -1,1 +1,8 @@
-< Add syllabus / contents here >
+In the Class 12 syllabus, we'll be covering: 
+
+* Object Oriented Programming in Python
+* Inheritance
+* Data Structures in Python
+* File Handling
+* Exception Handling
+* Generators
