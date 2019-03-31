@@ -16,4 +16,4 @@
   * [File Handling](12th/Files.md)
   * [Exception Handling](12th/Exceptions.md)
   * [Generators](12th/Generators.md)
-  * [Connectivity](12/Connectivity.md)
+  * [Connectivity](12th/Connectivity.md)
