@@ -6,3 +6,4 @@ In the Class 12 syllabus, we'll be covering:
 * File Handling
 * Exception Handling
 * Generators
+* SQL and MongodB Connectivity
